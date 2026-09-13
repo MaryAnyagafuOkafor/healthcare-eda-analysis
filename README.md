@@ -31,26 +31,28 @@ of a healthcare dataset containing 54,966 patient records with 15 variables.
 
 | Figure | Title |
 |--------|-------|
-| Figure 1 | Histogram of Billing Amount |
-| Figure 2 | Boxplot of Billing Amount |
-| Figure 3 | Violin Plot of Billing Amount |
-| Figure 4 | Histogram of Age Distribution |
-| Figure 5 | Boxplot of Age by Gender |
-| Figure 6 | Count Plot of Medical Conditions |
-| Figure 7 | Count Plot of Admission Types |
-| Figure 8 | Count Plot of Test Results |
-| Figure 9 | Billing Amount by Medical Condition |
-| Figure 10 | Billing Amount by Admission Type |
-| Figure 11 | Correlation Matrix Heatmap |
-| Figure 12 | Monthly Admissions Trend |
-| Figure 13 | Yearly Admissions Trend |
-| Figure 14 | Year-over-Year Change |
-| Figure 15 | Seasonal Pattern |
-| Figure 16 | Distribution of Length of Stay |
-| Figure 17 | Length of Stay by Medical Condition |
-| Figure 18 | Length of Stay by Admission Type |
-| Figure 19 | Medical Condition vs Test Results |
-| Figure 20 | Gender vs Medical Condition |
+| Figure 1 | Histogram of Billing Amount 
+| Figure 2 | Boxplot of Billing Amount 
+| Figure 3 | Violin Plot of Billing Amount 
+| Figure 4 | Histogram of Age Distribution 
+| Figure 5 | Boxplot of Age by Gender 
+| Figure 6 | Count Plot of Medical Conditions 
+| Figure 7 | Count Plot of Admission Types 
+| Figure 8 | Count Plot of Test Results 
+| Figure 9 | Billing Amount by Medical Condition 
+| Figure 10 | Billing Amount by Admission Type 
+| Figure 11 | Billing Amount by Gender
+| Figure 12 | Billing Amount by Test Results
+| Figure 13 | Correlation Matrix Heatmap 
+| Figure 14 | Monthly Admissions Trend 
+| Figure 15 | Yearly Admissions Trend 
+| Figure 16 | Year-over-Year Change 
+| Figure 17 | Seasonal Pattern 
+| Figure 18 | Distribution of Length of Stay 
+| Figure 19 | Length of Stay by Medical Condition 
+| Figure 20 | Length of Stay by Admission Type 
+| Figure 21 | Medical Condition vs Test Results 
+| Figure 22 | Gender vs Medical Condition 
 
 ## How to Reproduce
 
